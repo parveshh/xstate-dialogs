@@ -1,0 +1,8 @@
+{
+  "accountOpen.answer": "Hey, i can help you with  opening a new account \n could you please tell me which account you want to open? \n Savings or a Business account?",
+  "accountOpen.answer.retry": "Could you please tell me \n Savings or a Business account?",
+  "accountSavings.answer": "To Open your savings account please contact the nearest branch with your ID proof",
+  "accountBusiness.answer": "To Open your business account please contact the nearest branch with your ID proof & Business Registration documents",
+  "exit.answer": "Are you sure you want to exit this dialog?",
+  "accountOpen.thanks": "Okay, please let me know if i can help with something else."
+}
